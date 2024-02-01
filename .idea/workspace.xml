@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4d741ad-c167-400b-a452-dd2594da2190" name="Changes" comment="">
+    <list default="true" id="b4d741ad-c167-400b-a452-dd2594da2190" name="Changes" comment="nye branch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pejan\OneDrive\Documents\Github" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,7 +74,17 @@
       <workItem from="1706783876948" duration="112000" />
       <workItem from="1706787027590" duration="114000" />
       <workItem from="1706787159765" duration="347000" />
+      <workItem from="1706789586762" duration="48000" />
     </task>
+    <task id="LOCAL-00001" summary="nye branch">
+      <option name="closed" value="true" />
+      <created>1706789440647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706789440647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="200" />
-    <option name="LAST_COMMIT_MESSAGE" value="200" />
+    <MESSAGE value="nye branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="nye branch" />
   </component>
 </project>
