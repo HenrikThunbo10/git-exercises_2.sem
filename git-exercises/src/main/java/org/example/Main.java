@@ -14,7 +14,7 @@ public class Main {
 
 
             if(i % 3 == 0 && i % 5 == 0){
-                System.out.println("FizzBuzz");
+                System.out.println("BuzzFizz");
 
             }
 
